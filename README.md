@@ -11,6 +11,7 @@ In this lab, we'll be dealing with a `Song` class. The `Song` class can produce 
 
 ```ruby
 Song.count
+
   # => 30
 ```
 
